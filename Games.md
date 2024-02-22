@@ -69,7 +69,7 @@
             <p>Description of the game goes here.</p>
             <img src="game2.jpg" alt="Game 2">
         </div>
-hi        <!-- Add more games here -->
+bobgaming.my.canva.site       <!-- Add more games here -->
     </section>
     <footer>
         <p>&copy; 2024 GitHub Gaming. All rights reserved.</p>
