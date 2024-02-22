@@ -61,7 +61,7 @@
         <h3>Featured Games</h3>
         <div>
             <h4>Game Title 1</h4>
-            <p>Description of the game goes here.</p>
+            <p hi ></p>.</p>
             <img src="game1.jpg" alt="Game 1">
         </div>
         <div>
@@ -69,7 +69,7 @@
             <p>Description of the game goes here.</p>
             <img src="game2.jpg" alt="Game 2">
         </div>
-        <!-- Add more games here -->
+hi        <!-- Add more games here -->
     </section>
     <footer>
         <p>&copy; 2024 GitHub Gaming. All rights reserved.</p>
