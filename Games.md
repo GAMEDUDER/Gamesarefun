@@ -62,7 +62,7 @@
         <div>
             <h4>Game Title 1</h4>
             <p hi ></p>.</p>
-            <img src="game1.jpg" alt="Game 1">
+            <img src="https://clavinmogmax.github.io" alt="Game 1">
         </div>
         <div>
             <h4>Game Title 2</h4>
